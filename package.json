@@ -23,7 +23,7 @@
     "btoa": "^1.1.2",
     "classnames": "~2.2.5",
     "fetch-ponyfill": "~3.0.2",
-    "lodash": "~4.17.4",
+    "lodash": "~4.17.16",
     "moment": "^2.22.1",
     "moment-timezone": "^0.5.17",
     "pluralize": "~3.0.0",
