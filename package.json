@@ -19,7 +19,7 @@
   ],
   "dependencies": {
     "babel-polyfill": "~6.16.0",
-    "bootstrap-sass": "~3.3.7",
+    "bootstrap-sass": "~3.4.0",
     "btoa": "^1.1.2",
     "classnames": "~2.2.5",
     "fetch-ponyfill": "~3.0.2",
