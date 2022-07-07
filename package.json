@@ -24,7 +24,7 @@
     "classnames": "~2.2.5",
     "fetch-ponyfill": "~3.0.2",
     "lodash": "~4.17.4",
-    "moment": "^2.22.1",
+    "moment": "^2.29.4",
     "moment-timezone": "^0.5.17",
     "pluralize": "~3.0.0",
     "prop-types": "^15.5.8",
